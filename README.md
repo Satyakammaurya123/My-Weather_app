@@ -1,6 +1,6 @@
 # Getting Started with Vercel
 
-This project was deplpoyed on [Vercel App]([https://github.com/facebook/create-react-app](https://my-weather-bkivvqj79-satyakammaurya123.vercel.app/?vercelToolbarCode=CYHjifzBd2whdFC)).
+This project was deplpoyed on [Vercel App][https://my-weather-bkivvqj79-satyakammaurya123.vercel.app/?vercelToolbarCode=CYHjifzBd2whdFC](https://my-weather-bkivvqj79-satyakammaurya123.vercel.app/?vercelToolbarCode=CYHjifzBd2whdFC).
 
 ## Available Scripts
 
