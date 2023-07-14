@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Vercel
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was deplpoyed on [Vercel App]([https://github.com/facebook/create-react-app](https://my-weather-bkivvqj79-satyakammaurya123.vercel.app/?vercelToolbarCode=CYHjifzBd2whdFC)).
 
 ## Available Scripts
 
